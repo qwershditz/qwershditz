@@ -22,7 +22,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=qwershditz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=qwershditz)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 
