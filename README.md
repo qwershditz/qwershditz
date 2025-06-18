@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&animation=fadeIn&type=waving&color=gradient&height=100" />
+</p>
 # 💫 About Me:
 
 <br>Hello, I am a Full Stack Developer. I focus on Website and application development, <br>but I am a little interested in game development.<br><br>🔭 I’m currently working on Komikaze<br><br>🌱 I’m currently learning React, Next.js, JavaScript, and PHP<br><br>👯 This is a website to view anime lists AniMangaListo<br><br>👨‍💻 All of my projects are available at https://qwershditz.github.io/projectjourney/<br><br>📝 I regularly write articles on https://dittechitblog.my.id/<br><br>💬 Ask me about React, Next.js, JavaScript, and PHP<br><br>📫 How to reach me adityarabbyoka3@gmail.com<br><br>⚡ Fun fact An introverted programmer
