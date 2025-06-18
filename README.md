@@ -1,55 +1,42 @@
-  <p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Aditya Vikram Singh Banner"></p>
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Aditya</h2><p></p>
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I’m currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br>
-🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">avsingh@umass.edu</a>! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="https://www.adityavsingh.com/resume.html">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
-<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
-<p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
-<img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
-<img src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">&nbsp;
-<img src="https://img.shields.io/badge/-R-05122A?style=flat&amp;logo=R&amp;logoColor=276DC3" alt="R (Statistics)"><br>
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React">&nbsp;
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
-<img src="https://img.shields.io/badge/-Django-05122A?style=flat&amp;logo=django&amp;logoColor=092E20" alt="Django">&nbsp;
-<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&amp;logo=flask" alt="Flask">&nbsp;
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap"><br>
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown"><br>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
-<img src="https://img.shields.io/badge/-RStudio-05122A?style=flat&amp;logo=rstudio" alt="RStudio">&nbsp;
-<img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&amp;logo=eclipse-ide&amp;logoColor=2C2255" alt="Eclipse"><br>
-<img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">&nbsp;
-<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
-<img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&amp;logo=adobe-indesign" alt="InDesign"></p>
-<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
-</a>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">I am a Full Stack Developer from Indonesia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qwershditz&label=Profile%20views&color=0e75b6&style=flat" alt="qwershditz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qwershditz" alt="qwershditz" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/shditz" target="blank"><img src="https://img.shields.io/twitter/follow/shditz?logo=twitter&style=for-the-badge" alt="shditz" /></a> </p>
+
+- 🔭 I’m currently working on [Komikaze](https://komikaze.my.id/)
+
+- 🌱 I’m currently learning **React, Next.js, JavaScript, and PHP**
+
+- 👯 This is a website to view anime lists [AniMangaListo](https://animangalisto.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [https://qwershditz.github.io/projectjourney/](https://qwershditz.github.io/projectjourney/)
+
+- 📝 I regularly write articles on [https://dittechitblog.my.id/](https://dittechitblog.my.id/)
+
+- 💬 Ask me about **React, Next.js, JavaScript, and PHP**
+
+- 📫 How to reach me **adityarabbyoka3@gmail.com**
+
+- ⚡ Fun fact **An introverted programmer**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shditz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shditz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityakurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakurniawan" height="30" width="40" /></a>
+<a href="https://fb.com/shion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shion" height="30" width="40" /></a>
+<a href="https://instagram.com/ry.shditz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ry.shditz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shion" height="30" width="40" /></a>
 </p>
-<h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&amp;logo=Pinterest&amp;logoColor=white"></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
-</p>
-<hr>
-<p>Credits: <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
-<p>Last Edited on: 11/12/2020</p> 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwershditz&show_icons=true&locale=en&layout=compact" alt="qwershditz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwershditz&show_icons=true&locale=en" alt="qwershditz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwershditz&" alt="qwershditz" /></p>
